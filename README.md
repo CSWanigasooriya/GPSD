@@ -1,2 +1,2 @@
 # Result Management System
-Second Year Group Project
+Web Application for University Result Management.
